@@ -10,3 +10,10 @@ And also implement a GUI.
 
 * Python
 * Tkinter
+
+### Functionalities
+
+* Generating both Private and Public Keys.
+* Saves both keys on seperate .txt files.
+* Encryt and Decrypt given message.
+* Saves both results from encryption and decrytion on seperate .txt files.
